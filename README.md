@@ -1,5 +1,6 @@
-#  DeepRead – Bias Detection for the Modern Web
+# 🧠 DeepRead
 
+> 🥉 **3rd Place Overall – Largest Hackathon in the DMV Region**
 ---
 
 ##  Inspiration
