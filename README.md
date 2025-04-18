@@ -22,15 +22,26 @@ As online content shapes public opinion, the presence of subtle bias—racial, g
 
 ## 🖼️ Screenshots
 
-<div style="display: flex; overflow-x: auto; gap: 10px;">
-  <img src="images/Screenshot 2025-04-18 154852.png" width="300" />
-  <img src="images/Screenshot 2025-04-18 154920.png" width="300" />
-  <img src="images/Screenshot 2025-04-18 155648.png" width="300" />
-  <img src="images/Screenshot 2025-04-18 155703.png" width="300" />
-  <img src="images/Screenshot 2025-04-18 155729.png" width="300" />
-  <img src="images/Screenshot 2025-04-18 155741.png" width="300" />
-  <img src="images/Screenshot 2025-04-18 155754.png" width="300" />
-</div>
+## 🖼️ Screenshots
+
+<table>
+  <tr>
+    <td><img src="images/Screenshot 2025-04-18 154852.png" alt="Homepage Screenshot"/></td>
+    <td><img src="images/Screenshot 2025-04-18 154920.png" alt="Bias Detection Tool"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/Screenshot 2025-04-18 155648.png" alt="Rewriter Tool"/></td>
+    <td><img src="images/Screenshot 2025-04-18 155703.png" alt="Beat the Bias Game"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/Screenshot 2025-04-18 155729.png" alt="Game Continued"/></td>
+    <td><img src="images/Screenshot 2025-04-18 155741.png" alt="Game Continued"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="images/Screenshot 2025-04-18 155754.png" alt="Final Game Screen"/></td>
+  </tr>
+</table>
+
 
 ---
 
