@@ -23,7 +23,7 @@ As online content shapes public opinion, the presence of subtle bias—racial, g
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src=".images/Screenshot 2025-04-18 154852.png" width="600" alt="Homepage Screenshot" />
+  <img src="images/Screenshot 2025-04-18 154852.png" width="600" alt="Homepage Screenshot" />
 </p>
 
 ---
