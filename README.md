@@ -22,25 +22,24 @@ As online content shapes public opinion, the presence of subtle bias—racial, g
 
 ## 🖼️ Screenshots
 
-## 🖼️ Screenshots
-
 <table>
   <tr>
-    <td><img src="images/Screenshot 2025-04-18 154852.png" alt="Homepage Screenshot"/></td>
     <td><img src="images/Screenshot 2025-04-18 154920.png" alt="Bias Detection Tool"/></td>
-  </tr>
-  <tr>
     <td><img src="images/Screenshot 2025-04-18 155648.png" alt="Rewriter Tool"/></td>
+  </tr>
+  <tr>
     <td><img src="images/Screenshot 2025-04-18 155703.png" alt="Beat the Bias Game"/></td>
-  </tr>
-  <tr>
     <td><img src="images/Screenshot 2025-04-18 155729.png" alt="Game Continued"/></td>
-    <td><img src="images/Screenshot 2025-04-18 155741.png" alt="Game Continued"/></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="images/Screenshot 2025-04-18 155754.png" alt="Final Game Screen"/></td>
+    <td><img src="images/Screenshot 2025-04-18 155741.png" alt="Game Continued"/></td>
+    <td><img src="images/Screenshot 2025-04-18 155754.png" alt="Game Final Screen"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="images/Screenshot 2025-04-18 154852.png" alt="Homepage Screenshot"/></td>
   </tr>
 </table>
+
 
 
 ---
